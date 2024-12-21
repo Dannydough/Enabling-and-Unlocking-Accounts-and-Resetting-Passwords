@@ -207,3 +207,10 @@ Navigate to Windows Logs > Security to review failed login attempts and any asso
 <p>
 <img src="https://imgur.com/BSQdlle.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<h2> Active Directory Lab Completed  </h2>
+
+*This project involved setting up an Active Directory infrastructure in Azure, where I configured two Virtual Machines—a Domain Controller and a client machine. I demonstrated how to handle account lockouts, set up Group Policy Objects, manage user accounts, and track login attempts through Event Viewer. The project provided practical experience in securing and managing an Active Directory environment, laying the groundwork for more advanced IT management tasks.*
+
+</p>
+<br />
